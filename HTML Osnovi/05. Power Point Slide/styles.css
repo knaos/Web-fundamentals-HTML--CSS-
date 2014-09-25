@@ -1,0 +1,49 @@
+.mainWrapper{
+	background-image: url('img/background.jpg');
+	margin: 0 auto;
+	width: 1024px;
+	height: 600px;
+
+}
+
+h1{
+	color: #F9BC57;
+	font-size: 43px;
+
+}
+span{
+	color: #F9BC57;
+}
+li{
+	color: white;
+	font-size: 30px;
+}
+.greyBoxText,div{
+	color:rgb(252, 245, 172);
+	font-size: 16px;
+}
+	
+.greyBox{
+	background-color: #3D3838;
+	border: 1px solid grey;
+	width: 900px;
+	margin-left: 19px;
+	margin: 11px;
+	margin-right: 55px;
+	padding: 5px;
+}
+
+li.icon {
+     background-image:url();
+     background-repeat:no-repeat;
+     background-position:3px 3px;
+     min-height:16px;
+     padding-left:20px;
+}
+	
+	
+}
+ul{
+	list-style-image: url: ("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAE0lEQVQIW2P8cEnwPwMaYKSBIABYaA4gZP6gkgAAAABJRU5ErkJggg==");
+    
+}
